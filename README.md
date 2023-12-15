@@ -13,15 +13,3 @@ We thus believe that RoDia is a valuable resource that will stimulate research a
 The dataset is in the **data** directory. We released the **train.csv** and
 the **test.csv** for the dataset split. Moreover, we included gender and age statistics.
 
----
-
-*Please cite our paper if you use the RoDia dataset or code in your research:*
-
-```
-@article{Rotaru-ARXIV-2023,
-title={RoDia: A New Dataset for Romanian Dialect Identification from Speech},
-author={Rotaru, Codrut and Ristea, Nicolae-Catalin and Ionescu, Radu Tudor},
-journal={arXiv preprint arXiv:2309.03378},
-year={2023}
-}
-```
